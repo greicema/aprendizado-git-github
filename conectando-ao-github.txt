@@ -1,0 +1,6 @@
+Conectanto ao GitHub:
+- Entre na sua conta no GitHub 
+- Clique em criar um novo repositório
+- Se quiser, adicione uma descrição e a privacidade do repositório
+- Use o comando git remote add origin [link do repositório] para criar seu repositório remoto
+- use o comando git push -u origin [nome da branch] para subir as alterações de um respositório remoto para o GitHub
