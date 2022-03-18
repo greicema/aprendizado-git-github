@@ -1,0 +1,11 @@
+Branch
+Branch é o nome dado a uma versão (ramificação) do projeto. 
+
+Isso é útil porque possibilita gerenciar múltiplas alterações acontecendo simultaneamente. Por exemplo, podemos fazer com que cada equipe de desenvolvimento
+
+Merge
+Para unir as modificações feitas em um branch ao código original, utilizamos o comando merge.
+
+Com esta funcionalidade, todas as alterações feitas em cópias manipuláveis são inseridas, após aprovadas, no código-fonte original sem complicações.
+
+Texto de Ugo Roveda
